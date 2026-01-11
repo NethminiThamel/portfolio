@@ -132,7 +132,7 @@ export default function Portfolio() {
           <div className="flex justify-between items-center">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent">
               <Sparkles className="inline-block mb-1 mr-2" size={24} />
-              Nethmini Thamel
+               Nethmini Thamel
             </h1>
             
             <ul className="hidden md:flex items-center space-x-1">
@@ -160,7 +160,7 @@ export default function Portfolio() {
                 {darkMode ? <Sun size={20} /> : <Moon size={20} />}
               </button>
               <a
-                href="https://drive.google.com/file/d/1vQIglezuE8Xx9Xj7h4E3B-uCKw_Ha2tr/view?usp=sharing"
+                href="https://drive.google.com/file/d/1t5Yr3ujB1ur5bhZK-qLUoTl0g1o6iROp/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hidden md:block bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-6 py-2.5 rounded-lg font-medium hover:shadow-lg transition-all duration-300"
@@ -207,7 +207,7 @@ export default function Portfolio() {
             <div className="text-center space-y-8">
               {/* Main Heading */}
               <div className="space-y-4">
-                 <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Nethmini Thamel</h1>
+                 <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Hi, I'm Nethmini Thamel</h1>
                 
                 <div className="flex items-center justify-center gap-4">
                   <div className="h-px w-16 bg-gradient-to-r from-transparent via-blue-500 to-transparent"></div>

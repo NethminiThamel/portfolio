@@ -51,7 +51,7 @@ export default function Portfolio() {
   const projects = [
     {
       title: "Airline Ticketing Application",
-      description: "Designed using Figma provides a clean, interactive UI prototype that allows users to search, select, and book tickets easily.",
+      description: "Designed using Figma. This app provides a clean, interactive UI prototype that allows users to search, select, and book tickets easily.",
       tech: ["Figma"],
       link: "https://www.figma.com/design/KcshHEZdq4XkhkBdImacF8/Skybound?node-id=0-1&t=lZxWIdzBj9qWPEWF-1",
       image: "/skybound.png"
@@ -61,14 +61,14 @@ export default function Portfolio() {
       description: "Feature-rich mobile wellness application with daily habit tracking, reminder notification, progress visualization, and CRUD operations.",
       tech: ["Kotlin", "Android Studio", "Sharedpreferences"],
       link: "https://github.com/NethminiThamel/wellnessHabit",
-      image: "/download.jpg"
+      image: "/wellness.jpg"
     },
     {
       title: "COCOCHAIN - Supply Chain Management",
       description: "Full-stack web application for online coconut supply chain management, featuring real-time inventory tracking, secure authentication, and comprehensive CRUD operations.",
       tech: ["MongoDB", "Express.js", "React", "Node.js"],
       link: "#",
-      image: "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?w=800&h=600&fit=crop"
+      image: "cocochain.jpg"
     },
     {
       title: "Stock Management System",
@@ -160,7 +160,7 @@ export default function Portfolio() {
                 {darkMode ? <Sun size={20} /> : <Moon size={20} />}
               </button>
               <a
-                href="https://drive.google.com/file/d/1t5Yr3ujB1ur5bhZK-qLUoTl0g1o6iROp/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1tvFuXuq8TJW82OlrZ-IWdiorJIqngRF6/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hidden md:block bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-6 py-2.5 rounded-lg font-medium hover:shadow-lg transition-all duration-300"

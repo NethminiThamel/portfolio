@@ -45,7 +45,7 @@ export default function Portfolio() {
     "Backend Development": ["Node.js", "Express.js", "MongoDB", "MySQL"],
     "Mobile Development": ["Kotlin", "Java", "Android Studio", "Mobile UI/UX"],
     "Design & Tools": ["Figma", "UI/UX Design", "Responsive Design", "Git/GitHub"],
-    "Additional Skills": ["RESTful APIs", "MVC Architecture", "Agile Methodology", "Problem Solving"]
+    "Additional Skills": [ "MVC Architecture", "Agile Methodology", "Problem Solving"]
   };
 
   const projects = [
@@ -59,7 +59,7 @@ export default function Portfolio() {
     {
       title: "Wellness Tracker App",
       description: "Feature-rich mobile wellness application with daily habit tracking, reminder notification, progress visualization, and CRUD operations.",
-      tech: ["Kotlin", "Android Studio", "Sharedpreferences"],
+      tech: ["Kotlin", "Android Studio"],
       link: "https://github.com/NethminiThamel/wellnessHabit",
       image: "/wellness.jpg"
     },

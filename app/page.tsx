@@ -67,7 +67,7 @@ export default function Portfolio() {
       title: "COCOCHAIN - Supply Chain Management",
       description: "Full-stack web application for online coconut supply chain management, featuring real-time inventory tracking, secure authentication, and comprehensive CRUD operations.",
       tech: ["MongoDB", "Express.js", "React", "Node.js"],
-      link: "#",
+      link: "https://github.com/dulX404/CocoChain",
       image: "cocochain.jpg"
     },
     {

@@ -160,7 +160,7 @@ export default function Portfolio() {
                 {darkMode ? <Sun size={20} /> : <Moon size={20} />}
               </button>
               <a
-                href="https://drive.google.com/file/d/1SHlhfAANaIQIRceaJxal48U6OajIUmgG/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1eLP2D5xCBarR162CBthsRdEIhctSBDLt/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hidden md:block bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-6 py-2.5 rounded-lg font-medium hover:shadow-lg transition-all duration-300"
